@@ -93,4 +93,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 ## Contact 
 
 For questions, collaborations, or support, reach out to:  
-**hello@craftchainlabs.com**
+**karthikmsarma@gmail.com**
